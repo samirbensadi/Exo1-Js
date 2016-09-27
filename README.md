@@ -4,6 +4,6 @@
 
     - une couleur blanche.
     - un background noir.
-    - une bordure noire pointillée de 1px.
+    - une bordure rouge pointillée de 1px.
     - un retrait de 5px.
 
